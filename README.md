@@ -1,4 +1,4 @@
-# Readdo Bookstore - Node.js Training App
+# Dope Book - Node.js Training App
 \+ Notes
 
 ## Instructions
